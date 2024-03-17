@@ -3,8 +3,8 @@
 ## Author: |cDAFF21DonjaZero|r
 # By request from Kattatonia
 
-## AddOnVersion: 2
-## Version: 1.1.0
+## AddOnVersion: 3
+## Version: 1.2.0
 ## APIVersion: 101040 101041
 
 ## IsLibrary: false
