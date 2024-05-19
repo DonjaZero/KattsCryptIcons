@@ -22,6 +22,11 @@ local MY_TEXTURES = {
     "KattsCryptIcons/icons/KCSwan.dds",
     "KattsCryptIcons/icons/KCTank.dds",
     "KattsCryptIcons/icons/KCXim.dds",
+    "KattsCryptIcons/icons/KCAdmo.dds",
+    "KattsCryptIcons/icons/KCFine.dds",
+    "KattsCryptIcons/icons/KCHealer.dds",
+    "KattsCryptIcons/icons/KCLOL.dds",
+    "KattsCryptIcons/icons/KCSwannie.dds",
 }
 
 EVENT_MANAGER:RegisterForEvent(ADDON_NAME, EVENT_ADD_ON_LOADED, function(_, addonName)
