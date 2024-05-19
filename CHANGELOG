@@ -1,6 +1,12 @@
+1.4.0
+
+ - Removed some icons and renamed, re-sorted, and re-converted the others. Sorry, this may break some existing icon assignments. Please review your assignments and reset as needed. Updates for this addon will attempt to use the "append only" policy when possible to minimize breakage going forward. Unless you never update the icon packs, it's practically impossible to avoid this altogether, especially when using multiple custom icon packs.
+
+ - Started using a customized set of filters and options to ensure best quality image conversion to the 128x128 DDS texture format possible.
+
 1.3.1
 
-- Added adorable new witch icon!
+ - Added an adorable new witch icon!
 
 1.3.0
 
