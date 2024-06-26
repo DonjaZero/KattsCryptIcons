@@ -1,3 +1,7 @@
+1.4.1
+
+ - Added a cool raven icon!
+
 1.4.0
 
  - Removed some icons and renamed, re-sorted, and re-converted the others. Sorry, this may break some existing icon assignments. Please review your assignments and reset as needed. Updates for this addon will attempt to use the "append only" policy when possible to minimize breakage going forward. Unless you never update the icon packs, it's practically impossible to avoid this altogether, especially when using multiple custom icon packs.
