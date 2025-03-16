@@ -3,9 +3,9 @@
 ## Author: |cDAFF21DonjaZero|r
 # By request from Kattatonia
 
-## AddOnVersion: 11
-## Version: 1.4.4
-## APIVersion: 101043 101044
+## AddOnVersion: 12
+## Version: 1.4.5
+## APIVersion: 101044 101045
 
 ## IsLibrary: false
 ## DependsOn: OdySupportIcons
